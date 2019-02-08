@@ -1,5 +1,8 @@
 # chanellingHansRosling
-The visualization has three elements in it as follows,
+An interactive version of the GapMinder World visualisation used in that demo is available at www.gapminder.org/world 
+
+I have recreated the visualisation using D3.js, JS, CSS and HTML.
+The visualisation has three elements in it as follows,
 1. The bubble plot representation.
 2. The check box list.
 3. Bar graph of 12 pillars for selected two countries.
